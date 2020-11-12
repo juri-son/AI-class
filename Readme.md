@@ -4,7 +4,7 @@
   * 나의 홈페이지 주소 : https://juri-son.github.io/AI-class/
 
 ### 시각화 프로젝트 
-  * IRIS 데이터 분석해 보기 - [LINK](https://github.com/juri-son/AI-class/blob/main/FirstStep_DataVis01.html)
+  * IRIS 데이터 분석해 보기 - [LINK](http://localhost:8888/view/Documents/GitHub/AI-class/FirstStep_DataVis01.html)
 
 ### 캐글 데이터 분석 대회 참여기.
   * 데이터 대회 링크 :
