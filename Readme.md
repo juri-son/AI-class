@@ -8,8 +8,8 @@
 
 ### 캐글 데이터 분석 대회 참여기.
   * 데이터 대회 링크 :
-  * 나의 흔적들 1기 [LINK](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
-  * 나의 흔적들 2기 [LINK](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+  * 나의 흔적들 1기 [LINK]
+  * 나의 흔적들 2기 [LINK]
 
 ### 나의 데이터 분석 공부
   * 데이터 링크 : 공공데이터(상권분석) [Link]
