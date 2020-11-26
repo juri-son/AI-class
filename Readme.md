@@ -13,7 +13,7 @@
 
 ### 나의 데이터 분석 공부
   * titanic 데이터 분석해 보기 - [LINK](___)
-  * plotly를 활용한 타이타닉 데이터 분석
+  * plotly를 활용한 타이타닉 데이터 분석 [PDF] (https://github.com/juri-son/AI-class/blob/main/jurison_titanic_plotly.pdf)
   * datasets: [LINK](https://www.kaggle.com/c/titanic/data)
 
 ### 나의 초보 딥러닝 도전기
